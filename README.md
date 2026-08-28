@@ -5,7 +5,7 @@ I'm student of computer science at Prince of Songkla University.
 --------------
 
 * 🌍  I'm based in Songkhla, Thailand.
-* 🧠  I'm learning GraphQL and NextJS
+* 🧠  I'm learning Go and Elysia
 
 ### Skills
 
